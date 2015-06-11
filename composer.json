@@ -1,0 +1,11 @@
+{
+    "name": "composed/post-types-order",
+    "type": "wordpress-plugin",
+    "homepage": "http://www.pluginmirror.com/plugins/post-types-order/",
+    "homepage": "https://wordpress.org/plugins/post-types-order/",
+    "homepage": "http://www.nsp-code.com/wordpress-plugins/post-types-order/",
+    "description": "Post Order and custom Post Type Objects (posts, any custom post types) using a Drag and Drop Sortable JavaScript AJAX interface.",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
